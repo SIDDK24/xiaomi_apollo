@@ -16,7 +16,7 @@ on:
 env:
   MANIFEST: git://github.com/PitchBlackRecoveryProject/manifest_pb.git -b android-10.0
   DEVICE: apollo
-  DT_LINK: https://github.com/siddhrsh/xiaomi_apollo.git
+  DT_LINK: https://github.com/siddhrsh/android_device_xiaomi_apollo.git
   DT_PATH: device/xiaomi/apollo
   TARGET: recoveryimage
   TZ: Asia/Kolkata
